@@ -39,19 +39,36 @@ This project is a basic personnel management application developed in SAP ABAP. 
 3. Activate all includes and the main report `ZDC_PERSONNEL_MANAGEMENT`.
 4. Run the program via transaction `SE38`.
 
+
+
+
 ## Screenshots
 
 ### Personnel Management Main Screen
 
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Main_Screen.jpg?raw=true)
+
+
+#### Personnel Management Main Screen Error
+ ![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Error1.jpg?raw=true).
+ 
 
 ### Add/Edit/Delete Personnel
+---
+#### Add/Edit Personnel
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Add_Pers.jpg?raw=true).
 
-![Add Personnel](screenshots/add_personnel.png)
+#### Delete Personnel
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Del_Pers.jpg?raw=true).
+
+
+#### Update the Table 
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Updated_Table.jpg?raw=true).
+
 
 ### Updated Personnel Table
-
-![Updated Personnel Table](screenshots/updated_personnel_table.png)
+---
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Pers_Table.jpg?raw=true).
 
 
 ## Author
