@@ -1,4 +1,7 @@
-<img width="644" height="779" alt="image" src="https://github.com/user-attachments/assets/c81cd75d-a297-416b-a0fa-f798585516e0" /># ZDC_PERSONNEL_MANAGEMENT
+
+# SAP - ABAP | PERSONNEL MANAGEMENT PROJECT
+---
+## ZDC_PERSONNEL_MANAGEMENT
 
 This SAP ABAP project is a basic personnel data management application that demonstrates classical ABAP techniques. It utilizes internal tables, user input processing, and classic Dynpro screens, along with an ALV Grid display to offer a user-friendly interface for managing personnel records efficiently.
 
