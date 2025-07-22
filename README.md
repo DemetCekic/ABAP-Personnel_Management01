@@ -7,15 +7,12 @@ This SAP ABAP project is a basic personnel data management application that demo
 
 ## Features
 
-- Create new personnel records (name, department, salary, etc.)
-- Update and delete existing records
-- Display records using ALV Grid
-- Basic report program structure with `WRITE`, `LOOP`, `READ TABLE`
-- Dropdown fields for nationality and status
-- Long text input using TEXTEDIT control
-- Tabstrip interface for organized screen layout
-- Input validation and error messages
-- Modular structure using INCLUDE programs
+- Personnel record management (Add, Update, Delete)
+- Classic Dynpro screen design
+- ALV Grid display
+- Modularization with Includes
+- Custom validations and F4 help
+
 
 ## Project Structure
 
@@ -40,7 +37,7 @@ This SAP ABAP project is a basic personnel data management application that demo
 - Tabstrip control
 - abapGit for version control
 
-## Installation & Usage
+## How to Run
 
 1. Import the project into your SAP system using abapGit.
 2. Make sure the custom table `ZDC_PSID_DT` is created.
