@@ -49,29 +49,28 @@ This SAP ABAP project is a basic personnel data management application that demo
 
 ### Personnel Management Main Screen
 
-![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Main_Screen-01.png?raw=true)
+![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM01_Main_Scrn.jpg?raw=true)
 
-
-#### Personnel Management Main Screen Error
- ![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Error1.jpg?raw=true).
+![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM02_Main_Screen_SE51.jpg?raw=true)
  
 
 ### Add/Edit/Delete Personnel
 ---
 #### Add/Edit Personnel
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Add_Pers.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM03_Add_Personnel.jpg?raw=true).
+
 
 #### Delete Personnel
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Del_Pers.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM04_Del_Personnel.jpg?raw=true).
 
 
 #### Update the Table 
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Updated_Table.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM05_Updated_Pers_Table.jpg?raw=true).
 
 
 ### Updated Personnel Table
 ---
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Pers_Table.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM06_Persnnel_Table.jpg?raw=true).
 
 
 ## Author
