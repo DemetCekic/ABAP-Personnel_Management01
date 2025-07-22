@@ -72,7 +72,18 @@ This SAP ABAP project is a basic personnel data management application that demo
 ---
 ![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM06_Persnnel_Table.jpg?raw=true).
 
+### Errors
+---
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM07_Error_01.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM08_Error_02.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_03.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_03.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_04.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_05.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_06.jpg?raw=true).
 
+
+---
 ## Author
 
 Developed by Demet Çekiç.
