@@ -1,12 +1,13 @@
 # ZDC_PERSONNEL_MANAGEMENT
 
-This project is a basic personnel management application developed in SAP ABAP. It uses classic Dynpro screens and ALV Grid to provide a user-friendly interface for managing personnel records.
+This SAP ABAP project is a basic personnel data management application that demonstrates classical ABAP techniques. It utilizes internal tables, user input processing, and classic Dynpro screens, along with an ALV Grid display to offer a user-friendly interface for managing personnel records efficiently.
 
 ## Features
 
-- Create new personnel records
+- Create new personnel records (name, department, salary, etc.)
 - Update and delete existing records
 - Display records using ALV Grid
+- Basic report program structure with `WRITE`, `LOOP`, `READ TABLE`
 - Dropdown fields for nationality and status
 - Long text input using TEXTEDIT control
 - Tabstrip interface for organized screen layout
@@ -14,6 +15,10 @@ This project is a basic personnel management application developed in SAP ABAP. 
 - Modular structure using INCLUDE programs
 
 ## Project Structure
+
+| MAIN                     | Description                            |
+|--------------------------|----------------------------------------|
+| ZPERSONEL_MANAGEMENT     | Main report program                    |
 
 | INCLUDE                  | Description                            |
 |--------------------------|----------------------------------------|
@@ -40,13 +45,11 @@ This project is a basic personnel management application developed in SAP ABAP. 
 4. Run the program via transaction `SE38`.
 
 
-
-
 ## Screenshots
 
 ### Personnel Management Main Screen
 
-![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Main_Screen.jpg?raw=true)
+![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/Main_Screen-01.png?raw=true)
 
 
 #### Personnel Management Main Screen Error
@@ -74,3 +77,4 @@ This project is a basic personnel management application developed in SAP ABAP. 
 ## Author
 
 Developed by Demet Çekiç.
+demetcekic@gmail.com 
