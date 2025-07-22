@@ -1,4 +1,4 @@
-# ZDC_PERSONNEL_MANAGEMENT
+<img width="644" height="779" alt="image" src="https://github.com/user-attachments/assets/c81cd75d-a297-416b-a0fa-f798585516e0" /># ZDC_PERSONNEL_MANAGEMENT
 
 This SAP ABAP project is a basic personnel data management application that demonstrates classical ABAP techniques. It utilizes internal tables, user input processing, and classic Dynpro screens, along with an ALV Grid display to offer a user-friendly interface for managing personnel records efficiently.
 
@@ -77,14 +77,17 @@ This SAP ABAP project is a basic personnel data management application that demo
 ![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM07_Error_01.jpg?raw=true).
 ![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM08_Error_02.jpg?raw=true).
 ![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_03.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_03.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_04.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_05.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_06.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM10_Error_04.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM11Error_05.jpg?raw=true).
+![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM12_Error_06.jpg?raw=true).
 
 
 ---
 ## Author
 
-Developed by Demet Çekiç.
-demetcekic@gmail.com 
+**Demet Çekiç** – SAP ABAP Developer / Architect
+- 📧 [demetcekic@gmail.com](mailto:demetcekic@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/demetcekic) | [GitHub](https://github.com/DemetCekic)
+
+
+Feel free to get in touch for collaboration or feedback!
