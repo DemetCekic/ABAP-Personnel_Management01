@@ -89,8 +89,14 @@ This SAP ABAP project is a basic personnel data management application that demo
 ## Author
 
 **Demet Çekiç** – SAP ABAP Developer / Architect
-- 📧 [demetcekic@gmail.com](mailto:demetcekic@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/demet-cekic) | [GitHub](https://github.com/DemetCekic)
-
+-  [demetcekic@gmail.com](mailto:demetcekic@gmail.com)  
+-  [LinkedIn](https://www.linkedin.com/in/demet-cekic) | [GitHub](https://github.com/DemetCekic)
 
 Feel free to get in touch for collaboration or feedback!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
