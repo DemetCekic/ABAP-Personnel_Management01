@@ -49,37 +49,42 @@ This SAP ABAP project is a basic personnel data management application that demo
 
 ### Personnel Management Main Screen
 
-![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM01_Main_Scrn.jpg?raw=true)
+![Image](https://github.com/user-attachments/assets/708b3d6f-c405-4c1e-b386-ee5c40041667)
 
-![Main Screen](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM02_Main_Screen_SE51.jpg?raw=true)
+![Image](https://github.com/user-attachments/assets/a7dc17e3-4b3f-4791-93f4-728499b9663a)
  
 
 ### Add/Edit/Delete Personnel
 ---
 #### Add/Edit Personnel
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM03_Add_Personnel.jpg?raw=true).
+![Image](https://github.com/user-attachments/assets/e18fc08b-4d7f-4c7e-93d4-b792b0e6b708)
 
 
 #### Delete Personnel
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM04_Del_Personnel.jpg?raw=true).
+![Image](https://github.com/user-attachments/assets/96ad18c8-4be2-4cf3-8981-c1d20266206e)
 
 
 #### Update the Table 
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM05_Updated_Pers_Table.jpg?raw=true).
+![Image](https://github.com/user-attachments/assets/9920f398-c52e-4d96-9189-ec1645cd15ed)
 
 
 ### Updated Personnel Table
 ---
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM06_Persnnel_Table.jpg?raw=true).
+![Image](https://github.com/user-attachments/assets/5b644172-c4bb-42d9-ba68-b262c67e56ab)
 
 ### Errors
 ---
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM07_Error_01.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM08_Error_02.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM09_Error_03.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM10_Error_04.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM11Error_05.jpg?raw=true).
-![Image Alt](https://github.com/DemetCekic/ABAP-Personnel_Management01/blob/main/IM12_Error_06.jpg?raw=true).
+![Image](https://github.com/user-attachments/assets/29ed6b15-6419-42a0-bd3a-50fa760fcbb8)
+
+![Image](https://github.com/user-attachments/assets/89e12358-a6ba-4094-af0d-e45082c0b021)
+
+![Image](https://github.com/user-attachments/assets/4d9a6572-38c6-46c8-86ff-01663228729e)
+
+![Image](https://github.com/user-attachments/assets/91dc7781-1105-4564-8871-2a762adb37ad)
+
+![Image](https://github.com/user-attachments/assets/d9a6f883-d55a-40a4-a596-9c0eddc4c9ca)
+
+![Image](https://github.com/user-attachments/assets/b37b54ff-cfcb-47c7-9669-83128701b8b9)
 
 
 ---
