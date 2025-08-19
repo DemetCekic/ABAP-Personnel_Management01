@@ -13,7 +13,6 @@ This SAP ABAP project is a basic personnel data management application that demo
 - Modularization with Includes
 - Custom validations and F4 help
 
-
 ## Project Structure
 
 | MAIN                     | Description                            |
@@ -28,6 +27,9 @@ This SAP ABAP project is a basic personnel data management application that demo
 | ZDC_PERS_EVENT_LOGIC     | PBO and PAI events                     |
 | ZDC_PERS_ALV             | ALV display logic                      |
 | ZDC_PERS_FORMS           | Helper FORM routines                   |
+
+## Flowchart
+![Image](https://github.com/user-attachments/assets/d6cfd77e-6e08-4beb-b418-051c9fd55605)
 
 ## Technologies Used
 
